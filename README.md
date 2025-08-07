@@ -132,7 +132,7 @@ CipherVault was built with security-first design principles. It's ideal for:
 Ready to encrypt like a pro?
 
 ```bash
-git clone https://github.com/yourusername/CipherVault.git
+git clone https://github.com/Gyorinm/CipherVault.git
 cd CipherVault
 pip install -r requirements.txt
 ```
