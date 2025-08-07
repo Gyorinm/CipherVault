@@ -4,7 +4,7 @@ CipherVault is a flexible, secure, and developer-friendly encryption framework d
 
 Purpose
 CipherVault helps individuals, developers, and organizations encrypt files, folders, or even entire datasets easily — with full control over algorithms, encryption modes, and stealth protection. No GUI clutter. No cloud dependencies. Just pure encryption, on your terms.
-![Preview](images/CipherVault11.png)
+![Preview](CipherVault11.png)
 
  Key Features
 Multi-layer encryption support
