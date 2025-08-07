@@ -33,7 +33,7 @@ Quick Start
 
  1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/CipherVault.git
+git clone https://github.com/Gyorinm/CipherVault.git
 cd CipherVault
 ```
 
@@ -94,7 +94,7 @@ CipherVault/
 
 Documentation
 
-- Full CLI command reference and advanced examples are available in the [Wiki](https://github.com/yourusername/CipherVault/wiki).
+- Full CLI command reference and advanced examples are available in the [Wiki](https://github.com/Gyorinm/CipherVault/wiki).
 - For API integration or module-based use, check `utils/` and function docstrings.
 
 ---
@@ -110,7 +110,7 @@ Documentation
 
 Contributions
 
-We welcome clean pull requests, bug reports, and feature suggestions. Please open an [Issue](https://github.com/yourusername/CipherVault/issues) or create a [Discussion](https://github.com/yourusername/CipherVault/discussions) for proposals.
+We welcome clean pull requests, bug reports, and feature suggestions. Please open an [Issue](https://github.com/Gyorinm/CipherVault/issues) or create a [Discussion](https://github.com/Gyorinm/CipherVault/discussions) for proposals.
 
 ---
 
