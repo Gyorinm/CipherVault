@@ -1,0 +1,6 @@
+{
+  "algorithm": "AES-256-GCM",
+  "original_name": "test_document.txt",
+  "original_size": 323,
+  "encrypted_size": 367
+}

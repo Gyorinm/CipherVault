@@ -1,0 +1,8 @@
+{
+  "algorithm": "AES-256",
+  "original_name": "test.txt",
+  "original_path": "C:\\Users\\PC\\Desktop\\CipherVault\\test.txt",
+  "original_size": 98,
+  "encrypted_size": 142,
+  "stealth_mode": false
+}

@@ -1,0 +1,8 @@
+🔐 CipherVault Test Document
+        
+This is a test document for CipherVault encryption.
+It contains multiple lines of text and special characters: !@#$%^&*()
+Arabic text: مرحبا بك في CipherVault
+Numbers: 1234567890
+
+This document will be encrypted using different algorithms to test the functionality.

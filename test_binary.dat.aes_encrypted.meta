@@ -1,0 +1,6 @@
+{
+  "algorithm": "AES-256-GCM",
+  "original_name": "test_binary.dat",
+  "original_size": 2560,
+  "encrypted_size": 2604
+}

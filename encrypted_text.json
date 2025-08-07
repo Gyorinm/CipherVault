@@ -1,0 +1,8 @@
+{
+  "success": true,
+  "type": "text",
+  "algorithm": "AES-256",
+  "encrypted_data": "xCuH5Rb1U/tRejygYEZZVA62pTkamVVVwpo92BCFHLBQWp/VjIb0kOu48xp/STlQxwrLNbUlhvlw9dXskr/F6TtG2RAxzg==",
+  "salt": "bft0FrZNtn88XDqFmiRl1g==",
+  "original_size": 42
+}
